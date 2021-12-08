@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" width="26" height="26">
+	<title>contacts</title>
+	<defs>
+		<image  width="26" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAAXNSR0IB2cksfwAAADNQTFRF////////////////////////////////////////////////////////////////////5RDoRwAAABF0Uk5TADBAEJ/v/9+AzyC/cI9QYK/BQzI3AAABIklEQVR4nFVSi7aDIAwrj4YCMv3/r71p0V3Xs8PQQJqkiuxKOXMtVdGsyLsMQC9DufL3RgbUOvpELTI6jheUsaTwfAtuzBf0IcTlfvcDpTh/QyeuL1udU1FFOtT7UiRwJW4rdlW5AImWaAotvK5nSXwLM4e468P/Dmlwr3LQEnls+XXWIrQFU0m7id1UMejgrbSDUv243cvqZDs+yEHJFMhaEctdc7gNvZ8s7HqYczZX+K++Fec4d+vqatLDgbam5x9QcXn2IJ1pkEHTDhKR6kZK5qRO7s6Yxfz24uHsJx2r2RSf7YkOUpAwmblJljx6js2//No6zdIzl4myocjb3t/GxAjBNMAu6Q0dbocB1oo7+W/5/HrYTfnnTkyBqdXfb/MPUhIK4y2YyPAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contacts">
+		<g id="icq">
+			<use id="icq icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

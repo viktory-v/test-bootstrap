@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 31" width="32" height="31">
+	<title>pluses</title>
+	<defs>
+		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAgMAAADw5/WeAAAAAXNSR0IB2cksfwAAAAlQTFRF////////////jkrl/gAAAAN0Uk5TAPD/w8jK7gAAACFJREFUeJxjYGDIZACBVUSSq4BgJZhcBSWzwCLEmwC2EQBu9xclr4H6BwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #445161 } 
+	</style>
+	<g id="pluses">
+		<g id="right items">
+			<g id="item">
+				<g id="plus icon">
+					<path id="Shape 3" class="shp0" d="M0 0L32 0L32 32L0 32L0 0Z" />
+					<use id="Layer 2" href="#img1" x="6" y="6" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

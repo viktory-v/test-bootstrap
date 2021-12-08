@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 26" width="24" height="26">
+	<title>contacts</title>
+	<defs>
+		<image  width="24" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAaCAMAAACaYWzBAAAAAXNSR0IB2cksfwAAAYZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////VecJvgAAAIJ0Uk5TAAxEYVo0ASWr+v/hu7mkhzwDRvPjXjb3whcG3uIsZt8SuP7QsKrH+bPnlRshrJxOBQKxxekxGu4EU74j04ULmWR1aT109m/yRxF+nnDOMEylWa6X/eiNCNk65ppowbzvDhbX6yjqpowHPjsukQl9/OSf0rKt0V0g3RXG9TKiGStXQn1+lvwAAAFGSURBVHicZVLlXwJBEH2AuQZigQ2KImKAGGcHJgYGCAoWit2Jrf+5ezt3gsf7Mi929zezu4AMnd6QlZ0DLXLz8hlHQWFRsbHElPJLy1gayivUnZVm9h+WKuFX1zAtauvkoD7DZ6zBygObqhqb7M0tDuKtPHAqfptL3t/eQUoPKGs6AWuX3g1Pt5BeoIeCXvT1cy1hgM51YZCCIeiGeRkZHSM9jgkik4DJN2WbVlsxYobI7JyYat6vjLuARXXNkn/Zw6MAqRWsEllbDzIW2ggDEeoem6JueRCVawzYFsYOpF25mvewH2fs4BASTZwAjgQ5Bk5Oz/hJSjMO4Dwo2IW4ksurawpuuLglGry7f/D+vY1dfvBH7bVzPMn7n5MZfkQS8768avy3d+Xd3TFnup/wpb5KOBC1xJMh0enHZ8YPw9e34WdUsF9OFzZPyyes6QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contacts">
+		<g id="skype">
+			<use id="skype icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

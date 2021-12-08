@@ -1,0 +1,124 @@
+@font-face {
+  font-family: ArialMT;
+  src: url(./02587_ARIALMT.ttf) format('opentype');
+}
+
+@font-face {
+  font-family: ArialItl;
+  src: url(./ofont.ru_Arial.ttf) format('opentype');
+}
+
+body {
+  --body-font-family: 'ArialMT';
+}
+
+h2 {
+  color: #445162;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+h5 {
+  color: #445162;
+}
+
+.container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.header {
+  background-color: #445162;
+
+  .h1 {
+    font-weight: 300;
+  }
+
+  .list-item {
+    position: relative;
+    padding: 5px 0 5px 35px;
+
+    &::before {
+      content: '';
+      background-image: url('/images/check-icon.svg');
+      position: absolute;
+      width: 25px;
+      height: 19px;
+      left: 0;
+      bottom: 29%;
+    }
+  }
+}
+
+.products {
+  background-color: #f5f5f5;
+
+  .list-item {
+    position: relative;
+    padding-left: 40px;
+
+    &::before {
+      content: '';
+      background-image: url('/images/plus-icon.svg');
+      width: 31px;
+      height: 32px;
+      position: absolute;
+      left: 0;
+      top: 5px;
+    }
+  }
+}
+
+.blockquote {
+  background-color: #ebebeb;
+  font-family: 'ArialItl';
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 15px 15px 0;
+    border-color: transparent #ebebeb transparent transparent;
+    left: -14px;
+  }
+}
+
+.price {
+  .card-title {
+    font-size: 1.5rem;
+  }
+
+  .btn {
+    font-size: 1.13rem;
+    color: #445162;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  .card-price {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+}
+
+.reviews {
+  background-color: #f5f5f5;
+}
+
+.card {
+  background-color: #445162;
+}
+
+.footer {
+  background-color: #445162;
+
+  .btn {
+    color: #445162;
+    font-weight: 700;
+  }
+}
